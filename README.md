@@ -1,7 +1,7 @@
-##installation
+## installation
 
 pip install send2trash customtkinter Pillow psutil
 
-##launch
+## launch
 
 python clear.py
